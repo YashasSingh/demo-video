@@ -1,0 +1,23 @@
+{
+  "name": "vimeo-video-viewer",
+  "version": "1.0.0",
+  "description": "A simple project to embed a Vimeo video viewer on GitHub Pages.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "vimeo",
+    "video",
+    "viewer",
+    "embed",
+    "github",
+    "pages"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "vimeo": "^2.0.0"
+  }
+}
